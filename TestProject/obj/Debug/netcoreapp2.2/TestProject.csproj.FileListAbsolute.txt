@@ -1,0 +1,15 @@
+/home/levent/RiderProjects/TestProject/TestProject/bin/Debug/netcoreapp2.2/TestProject.dll.config
+/home/levent/RiderProjects/TestProject/TestProject/bin/Debug/netcoreapp2.2/TestProject.deps.json
+/home/levent/RiderProjects/TestProject/TestProject/bin/Debug/netcoreapp2.2/TestProject.runtimeconfig.json
+/home/levent/RiderProjects/TestProject/TestProject/bin/Debug/netcoreapp2.2/TestProject.runtimeconfig.dev.json
+/home/levent/RiderProjects/TestProject/TestProject/bin/Debug/netcoreapp2.2/TestProject.dll
+/home/levent/RiderProjects/TestProject/TestProject/bin/Debug/netcoreapp2.2/TestProject.pdb
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.csprojAssemblyReference.cache
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.csproj.CoreCompileInputs.cache
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.RazorAssemblyInfo.cache
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.RazorAssemblyInfo.cs
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.AssemblyInfoInputs.cache
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.AssemblyInfo.cs
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.RazorTargetAssemblyInfo.cache
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.dll
+/home/levent/RiderProjects/TestProject/TestProject/obj/Debug/netcoreapp2.2/TestProject.pdb
